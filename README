@@ -1,1 +1,1 @@
-compile with g++ unit_test_prefix_sums.cpp prefix_sums.cpp
+compile with g++ unit_test_prefix_sums.cpp prefix_sum.cpp
